@@ -20,3 +20,10 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myData() {
+	
+	info2 = 'Imię : Dariusz \n  Nazwisko: Lurka';
+	
+	navigator.notification.alert(info2);
+}
